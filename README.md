@@ -1,2 +1,2 @@
 # OPEDD
-Off-Road Pedestrian Detection Dataset
+Repository for the publication **OPEDD: Off-Road Pedestrian Detection Dataset**
