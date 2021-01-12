@@ -1,2 +1,0 @@
-- Packages contain 50 images each (except package_20).
-- package_x.json contain the instance masks and instance IDs in javascript object notation (from VGG-image-annotation (VIA) tool)
